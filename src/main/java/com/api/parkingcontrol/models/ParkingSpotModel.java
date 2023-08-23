@@ -9,6 +9,7 @@ import java.util.UUID;
 
 @Entity
 @Table(name = "TB_PARKING_SPOT")
+
 public class ParkingSpotModel implements Serializable {
     @Serial
     private static final long serialVersionUID = 1L;
@@ -34,6 +35,7 @@ public class ParkingSpotModel implements Serializable {
     private String apartment;
     @Column(nullable = false, length = 30)
     private String block;
+
 
     public UUID getId() {
         return id;
