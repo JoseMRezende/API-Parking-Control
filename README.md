@@ -2,4 +2,5 @@
 
 Spring Boot Course Repository<br>
 Creating an API to Parking Control<br>
-[![JAVA]([https://exemplo.com/badge-tecnologia-x.svg](https://seeklogo.com/vector-logo/459104/java)https://seeklogo.com/vector-logo/459104/java)]
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
